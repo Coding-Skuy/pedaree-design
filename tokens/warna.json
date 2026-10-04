@@ -1,0 +1,17 @@
+{
+  "warna": {
+    "stok-tersedia": { "value": "#1a7f37" },
+    "stok-menipis": { "value": "#9a6700" },
+    "stok-habis": { "value": "#d1242f" },
+    "kedaluwarsa-aman": { "value": "#1a7f37" },
+    "kedaluwarsa-segera": { "value": "#9a6700" },
+    "kedaluwarsa-lewat": { "value": "#d1242f" },
+    "latar": { "value": "#ffffff" },
+    "teks": { "value": "#1f2328" }
+  },
+  "jarak": {
+    "kecil": { "value": "4" },
+    "sedang": { "value": "8" },
+    "besar": { "value": "16" }
+  }
+}
